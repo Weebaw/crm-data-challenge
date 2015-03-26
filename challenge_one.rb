@@ -1,3 +1,4 @@
+
 crm = {
   :people => [
     {
@@ -17,12 +18,12 @@ crm = {
       :first_name => "Elyse",
       :last_name => "Jensen",
       :employments =>
-        [
-          {
-            :company_id => 4,
-            :title => "Chief Communications Consultant"
-          }
-        ]
+      [
+        {
+          :company_id => 4,
+          :title => "Chief Communications Consultant"
+        }
+      ]
     },
     {
       :id => 4,
@@ -48,32 +49,32 @@ crm = {
       :first_name => "Elise",
       :last_name => "Camylle",
       :employments =>
-        [
-          {
-            :company_id => 1,
-            :title => "Regional Applications Designer"
-          },
-          {
-            :company_id => 9,
-            :title => "Internal Mobility Executive"
-          }
-        ]
+      [
+        {
+          :company_id => 1,
+          :title => "Regional Applications Designer"
+        },
+        {
+          :company_id => 9,
+          :title => "Internal Mobility Executive"
+        }
+      ]
     },
     {
       :id => 7,
       :first_name => "Felicita",
       :last_name => "Kip",
       :employments =>
-        [
-          {
-            :company_id => 6,
-            :title => "Chief Security Strategist"
-          },
-          {
-            :company_id => 2,
-            :title => "International Branding Producer"
-          }
-        ]
+      [
+        {
+          :company_id => 6,
+          :title => "Chief Security Strategist"
+        },
+        {
+          :company_id => 2,
+          :title => "International Branding Producer"
+        }
+      ]
     },
     {
       :id => 8,
@@ -86,16 +87,16 @@ crm = {
       :first_name => "Clementina",
       :last_name => "Geraldine",
       :employments =>
-        [
-          {
-            :company_id => 6,
-            :title => "Direct Response Agent"
-          },
-          {
-            :company_id => 3,
-            :title => "Investor Metrics Officer"
-          }
-        ]
+      [
+        {
+          :company_id => 6,
+          :title => "Direct Response Agent"
+        },
+        {
+          :company_id => 3,
+          :title => "Investor Metrics Officer"
+        }
+      ]
     },
     {
       :id => 10,
@@ -121,16 +122,16 @@ crm = {
       :first_name => "Magdalen",
       :last_name => "Wendy",
       :employments =>
-        [
-          {
-            :company_id => 9,
-            :title => "Product Operations Officer"
-          },
-          {
-            :company_id => 3,
-            :title => "Customer Paradigm Designer"
-          }
-        ]
+      [
+        {
+          :company_id => 9,
+          :title => "Product Operations Officer"
+        },
+        {
+          :company_id => 3,
+          :title => "Customer Paradigm Designer"
+        }
+      ]
     },
     {
       :id => 13,
@@ -148,44 +149,44 @@ crm = {
       :first_name => "Ellis",
       :last_name => "Chadd",
       :employments =>
-        [
-          {
-            :company_id => 6,
-            :title => "Customer Markets Planner"
-          },
-          {
-            :company_id => 7,
-            :title => "Global Research Specialist"
-          }
-        ]
+      [
+        {
+          :company_id => 6,
+          :title => "Customer Markets Planner"
+        },
+        {
+          :company_id => 7,
+          :title => "Global Research Specialist"
+        }
+      ]
     },
     {
       :id => 15,
       :first_name => "Esteban",
       :last_name => "Adriel",
       :employments =>
-        [
-          {
-            :company_id => 2,
-            :title => "District Infrastructure Orchestrator"
-          }
-        ]
+      [
+        {
+          :company_id => 2,
+          :title => "District Infrastructure Orchestrator"
+        }
+      ]
     },
     {
       :id => 16,
       :first_name => "Eloisa",
       :last_name => "Aubree",
       :employments =>
-        [
-          {
-            :company_id => 8,
-            :title => "Internal Configuration Producer"
-          },
-          {
-            :company_id => 7,
-            :title => "Regional Branding Administrator"
-          }
-        ]
+      [
+        {
+          :company_id => 8,
+          :title => "Internal Configuration Producer"
+        },
+        {
+          :company_id => 7,
+          :title => "Regional Branding Administrator"
+        }
+      ]
     },
     {
       :id => 17,
@@ -198,28 +199,28 @@ crm = {
       :first_name => "Brent",
       :last_name => "Shannon",
       :employments =>
-        [
-          {
-            :company_id => 7,
-            :title => "District Implementation Developer"
-          },
-          {
-            :company_id => 1,
-            :title => "District Factors Designer"
-          }
-        ]
+      [
+        {
+          :company_id => 7,
+          :title => "District Implementation Developer"
+        },
+        {
+          :company_id => 1,
+          :title => "District Factors Designer"
+        }
+      ]
     },
     {
       :id => 19,
       :first_name => "Jaren",
       :last_name => "Easter",
       :employments =>
-        [
-          {
-            :company_id => 4,
-            :title => "District Communications Director"
-          }
-        ]
+      [
+        {
+          :company_id => 4,
+          :title => "District Communications Director"
+        }
+      ]
     },
     {
       :id => 20,
@@ -232,16 +233,16 @@ crm = {
       :first_name => "Lorenza",
       :last_name => "Ellie",
       :employments =>
-        [
-          {
-            :company_id => 3,
-            :title => "Regional Tactics Specialist"
-          },
-          {
-            :company_id => 2,
-            :title => "Future Accounts Developer"
-          }
-        ]
+      [
+        {
+          :company_id => 3,
+          :title => "Regional Tactics Specialist"
+        },
+        {
+          :company_id => 2,
+          :title => "Future Accounts Developer"
+        }
+      ]
     },
     {
       :id => 22,
@@ -259,16 +260,16 @@ crm = {
       :first_name => "Colleen",
       :last_name => "Doyle",
       :employments =>
-        [
-          {
-            :company_id => 1,
-            :title => "Senior Division Representative"
-          },
-          {
-            :company_id => 3,
-            :title => "Dynamic Directives Producer"
-          }
-        ]
+      [
+        {
+          :company_id => 1,
+          :title => "Senior Division Representative"
+        },
+        {
+          :company_id => 3,
+          :title => "Dynamic Directives Producer"
+        }
+      ]
     },
     {
       :id => 24,
@@ -286,16 +287,16 @@ crm = {
       :first_name => "Kylie",
       :last_name => "Hayley",
       :employments =>
-        [
-          {
-            :company_id => 7,
-            :title => "Internal Mobility Producer"
-          },
-          {
-            :company_id => 3,
-            :title => "Human Directives Engineer"
-          }
-        ]
+      [
+        {
+          :company_id => 7,
+          :title => "Internal Mobility Producer"
+        },
+        {
+          :company_id => 3,
+          :title => "Human Directives Engineer"
+        }
+      ]
     },
     {
       :id => 26,
@@ -331,16 +332,16 @@ crm = {
       :first_name => "Alize",
       :last_name => "Lucio",
       :employments =>
-        [
-          {
-            :company_id => 6,
-            :title => "District Mobility Specialist"
-          },
-          {
-            :company_id => 9,
-            :title => "Chief Integration Coordinator"
-          }
-        ]
+      [
+        {
+          :company_id => 6,
+          :title => "District Mobility Specialist"
+        },
+        {
+          :company_id => 9,
+          :title => "Chief Integration Coordinator"
+        }
+      ]
     }
   ],
   :companies => [
@@ -389,6 +390,23 @@ crm = {
 
 
 
-crm[:people].each do |hash|
-  puts "#{hash[:first_name]} #{hash[:last_name]} "
+  crm[:companies].each do |company|
+    company[:id]
+    puts "#{company[:name]}\n"
+
+
+  crm[:people].each do |hash|
+    hash[:employments].each do |employments|
+    per = "   #{hash[:first_name]} #{hash[:last_name]}"
+
+     if employments[:company_id] == company[:id]
+       puts per
+
+
+
+
+
+end
+end
+end
 end
